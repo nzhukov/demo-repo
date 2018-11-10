@@ -11,7 +11,7 @@
 
 ## Задание 3
 
-[Задание 3](https://github.com/nzhukov/demo-repo/blob/master/task3.md)
+[Задание 3](task3.md)
 
 ## Задание 4
 
